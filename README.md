@@ -22,4 +22,5 @@ Para ejecutar este proyecto en tu máquina local, sigue estos pasos:
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone https://github.com/KevinAriasSolis/amigo-secreto.git
+   git clone https://github.com/KevinAriasSolis/amigo-secreto/tree/main
+
